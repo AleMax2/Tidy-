@@ -1,3 +1,2 @@
-# hello-world
-first repository
-Mannaggia ma che sto a scrive, 
+# Repository that I will try to keep tidy
+
